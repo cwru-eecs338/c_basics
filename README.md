@@ -19,9 +19,9 @@ Lessons:
 
 ### Booleans ###
 * There is no boolean type
-* You can handle errors using <code>if</code> Be careful about using
-  <code>==</code> for comparison, not <code>=</code> (the compiler should warn
-  you)
+* You can handle errors using <code>if</code>
+* Be careful about using <code>==</code> for comparison, not <code>=</code> (the
+  compiler should warn you)
 
 ### Strings ###
 * Strings are character arrays Strings are terminated with the NULL character
