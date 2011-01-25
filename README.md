@@ -24,9 +24,10 @@ Lessons:
   compiler should warn you)
 
 ### Strings ###
-* Strings are character arrays Strings are terminated with the NULL character
-* (usually 0 value) There are several ways to express string literals Special
-* library functions help for determining length, concatenating, etc.
+* Strings are character arrays
+* Strings are terminated with the NULL character (usually 0 value)
+* There are several ways to express string literals
+* Special library functions help for determining length, concatenating, etc.
 
 ### Memory Allocation ###
 * Pay attention to whether things are allocated on the stack or the heap,
