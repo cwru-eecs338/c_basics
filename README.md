@@ -27,7 +27,7 @@ Lessons:
 * Strings are character arrays
 * Strings are terminated with the NULL character '\0'
 * There are several ways to express string literals
-* Special library functions help for determining length, concatenating, etc.
+* Special library functions help with determining length, concatenating, etc.
 
 ### Memory Allocation ###
 * Pay attention to whether things are allocated on the stack or the heap,
