@@ -25,7 +25,7 @@ Lessons:
 
 ### Strings ###
 * Strings are character arrays
-* Strings are terminated with the NULL character (usually 0 value)
+* Strings are terminated with the NULL character '\0'
 * There are several ways to express string literals
 * Special library functions help for determining length, concatenating, etc.
 
