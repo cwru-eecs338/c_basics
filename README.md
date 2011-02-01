@@ -4,9 +4,9 @@ C Basics
 Getting the files:
 ------------------
 
-If git is installed, you can just use:
+On the lab computer, you can use:
 <pre><code>
-git clone git@github.com:cwru-eecs338/c_basics.git
+git clone git://github.com/cwru-eecs338/c_basics.git
 </code></pre>
 
 Otherwise, you can download and extract the tarball using:
