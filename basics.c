@@ -12,7 +12,7 @@ char *heap_cat(const char*, const char*);
 int main() {
 
     booleans();
-    puts("");
+    puts("");//Same as printf("%s\n","");
 
     strings();
     puts("");
@@ -40,7 +40,7 @@ void booleans() {
     int i = 1;
     int j = 2;
     if( i = j ) {
-        puts("Is 1 equal to 2???");
+        puts("Is 1 equal to 2???");//Same as printf("%s\n","Is 1 equal to 2???")
     }
 }
 
